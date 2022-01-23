@@ -1,0 +1,17 @@
+/* import google font  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* My customize button css  */
+.my-btn{
+    color: blue;
+    background-color: white;
+    font-size: 20px;
+}
+
+.my-btn:hover{
+    color: white;
+    background-color: blue;
+}
