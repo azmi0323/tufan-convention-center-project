@@ -22,6 +22,24 @@ body{
     background-color: #f3f1fc;
     border-radius: 50%;
 }
+/* packeges section button  */
 .btn-redius{
 border-radius: 25px;
+background-color: #f7ebf3;
+border: 0;
+color: #ff00a2;
+}
+.btn-redius:hover{
+    background-color:#ff00a2;
+    color: #ffffff;
+}
+.weadding-plus{
+    background-color: #3F87F5;
+    color: #ffffff;
+    border-radius: 25px;
+    box-shadow:  rgba(40, 40, 255, 0.25) 0px 50px 100px -20px, rgba(51, 36, 255, 0.3) 0px 30px 60px -30px, rgba(31, 15, 255, 0.411) 0px -2px 6px 0px inset;;
+    transform: translateY(-30px);
+}
+.packages{
+    padding-bottom: 70px;
 }
