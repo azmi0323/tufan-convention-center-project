@@ -3,6 +3,13 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.slider{
+    margin-top: 72px;
+}
+.slider .carousel-item img{
+    min-height: 100vh;
+    
+}
 
 
 /* My customize button css  */
@@ -45,3 +52,4 @@ color: #ff00a2;
 .packages{
     padding-bottom: 70px;
 }
+
