@@ -4,6 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+
 /* My customize button css  */
 .my-btn{
     color: rgb(23, 23, 151);
@@ -33,6 +34,7 @@ color: #ff00a2;
     background-color:#ff00a2;
     color: #ffffff;
 }
+/* our packages 3rd part custom css  */
 .weadding-plus{
     background-color: #3F87F5;
     color: #ffffff;
